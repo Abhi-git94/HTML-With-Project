@@ -1,2 +1,2 @@
 # Full-Stack-With-Project
-HTML, CSS, JavaScript, Angular, Python,
+HTML What we need in real life project
